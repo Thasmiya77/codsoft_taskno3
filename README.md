@@ -1,4 +1,4 @@
-# Task 4 - Recommendation System
+# Task 3 - Recommendation System
 ### CodSoft Artificial Intelligence Internship
 
 A **content-based movie recommendation system** that suggests similar
